@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           ant project hoit
+          yayayayay
         </a>
       </header>
     </div>
